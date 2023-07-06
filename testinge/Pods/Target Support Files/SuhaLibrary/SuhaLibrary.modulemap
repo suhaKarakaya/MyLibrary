@@ -1,6 +1,0 @@
-framework module SuhaLibrary {
-  umbrella header "SuhaLibrary-umbrella.h"
-
-  export *
-  module * { export * }
-}
