@@ -1,0 +1,16 @@
+PODS:
+  - SuhaLibrary (1.0.0)
+
+DEPENDENCIES:
+  - SuhaLibrary (from `../SuhaLibrary`)
+
+EXTERNAL SOURCES:
+  SuhaLibrary:
+    :path: "../SuhaLibrary"
+
+SPEC CHECKSUMS:
+  SuhaLibrary: 8c43d75fa880faf1ae4a121b457554d415c32693
+
+PODFILE CHECKSUM: 5350d733affa6762b2b3b2f94157d9555586dc21
+
+COCOAPODS: 1.12.1
